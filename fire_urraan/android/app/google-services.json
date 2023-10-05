@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27532130490",
+    "project_id": "fire-urraan",
+    "storage_bucket": "fire-urraan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27532130490:android:23aee22109dad7bee4ea83",
+        "android_client_info": {
+          "package_name": "com.example.fire_urraan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8cmQc2CFkItkn-JFdBFc8efrt8a6644"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

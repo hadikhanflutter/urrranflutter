@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096913537231",
+    "project_id": "flutter-notifications-b29a1",
+    "storage_bucket": "flutter-notifications-b29a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096913537231:android:adc0f2086597d6355a0fba",
+        "android_client_info": {
+          "package_name": "com.hadi.firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehBS_t6OPEH3hwrqMe2kbde4EDVSWNGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
